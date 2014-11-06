@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="craftbukkit-dev">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/craftbukkit-dev.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/craftbukkit-dev.jar!/" />
+    </SOURCES>
+  </library>
+</component>

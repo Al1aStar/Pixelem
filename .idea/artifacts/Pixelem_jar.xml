@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pixelem:jar">
+    <output-path>$USER_HOME$/Desktop/Test server/plugins</output-path>
+    <root id="archive" name="Pixelem.jar">
+      <element id="module-output" name="Pixelem" />
+    </root>
+  </artifact>
+</component>

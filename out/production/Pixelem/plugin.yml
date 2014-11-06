@@ -1,0 +1,9 @@
+name: Pixelem
+main: Dev.Pixelem.Net.Core
+version: 1.0
+author: Al1aStar
+
+commands:
+    test:
+    pvp:
+    rank:
